@@ -48,3 +48,4 @@ seguiría corriendo la versión antigua.
 ## Despliegue
 
 Vercel despliega solo con cada push a `main`.
+<!-- despliegue inicial -->
